@@ -1,0 +1,1 @@
+def parablola(x):
